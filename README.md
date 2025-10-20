@@ -1,5 +1,5 @@
 # FaceFusion addOn processors
-### FaceFusion 3.4.0 - 3.5.0  
+### FaceFusion 3.4.0    
 Additional minimal 'one-script' processors  
 No installation, just drag'n'drop  
 
